@@ -69,12 +69,12 @@ navs:
     label: Categories
 
   -
-     href: /archives/
-     label: Archives
+    href: /archives/
+    label: Archives
 
-#   -
-#     href: /open-source/
-#     label: Open Source
+  -
+    href: /open-source/
+    label: Open Source
 
 #  -
 #    href: /wiki/
