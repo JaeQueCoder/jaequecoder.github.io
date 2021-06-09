@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://jaequecoder.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: Jae Que
+subtitle: "10e9ps"
+description: "Jae Que's Public Account: Coder"
+keywords: Jae Que, jaequecoder, jaeque, Jae, Que
+timezone: Asia/Singapore
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: jaequecoder/jaequecoder.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -38,7 +38,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 闷骚的程序员
+        image_alt: 10e9ps Coder
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -49,12 +49,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Jae Que
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: jaequecoder
+location: Singapore
+email: jaequecoder@protonmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -62,31 +62,31 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
-#   -
-#     href: /archives/
-#     label: 归档
+   -
+     href: /archives/
+     label: Archives
 
 #   -
 #     href: /open-source/
-#     label: 开源
+#     label: Open Source
 
-  -
-    href: /wiki/
-    label: 维基
+#  -
+#    href: /wiki/
+#    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
